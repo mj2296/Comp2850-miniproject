@@ -1,0 +1,6 @@
+build/
+.kotlin/
+.amper/
+.idea/
+.vscode/
+*.log
