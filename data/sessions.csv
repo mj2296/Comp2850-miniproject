@@ -1,11 +1,11 @@
 id,staff_member,module_code,type,date,start_time,finish_time,location,previous_location
-1,Dr Clare Whitfield,HIST2105,lecture,2026-11-23,10:00,11:00,Michael Sadler RBLT (LG.X04),
-2,Dr Owen Hart,HIST2210,proctorial,2026-11-23,14:00,15:00,Parkinson SR (1.08),
-3,Andrew Treanor,LUBS2560,lecture,2026-11-24,09:00,11:00,Maurice Keyworth LT (G.02),Roger Stevens LT 21
-4,Henry Formon,HIST1050,tutorial,2026-11-24,13:00,14:00,Baines Wing SR (2.14),Parkinson SR (1.08)
-5,Dr Clare Whitfield,HIST2105,lecture,2026-11-25,10:00,11:00,Michael Sadler RBLT (LG.X04),
-6,Dr Owen Hart,HIST2210,tutorial,2026-11-25,15:00,16:00,Baines Wing SR (2.10),
+1,Anna McFarlane,HIST2105,lecture,2026-11-23,10:00,11:00,Michael Sadler RBLT (LG.X04),
+2,Jacopo Peabody,HIST2210,proctorial,2026-11-23,14:00,15:00,Newlyn SR (1.02),
+3,Andrew Treanor,LUBS2560,lecture,2026-11-24,09:00,11:00,Chemistry LT A (2.15),Mechanical Engineering LT A (1.33)
+4,Henry Formon,HIST1050,tutorial,2026-11-24,13:00,14:00,Baines Wing SR (2.14),Newlyn SR (1.02)
+5,Anna McFarlane,HIST2105,lecture,2026-11-25,10:00,11:00,Michael Sadler RBLT (LG.X04),
+6,Jacopo Peabody,HIST2210,tutorial,2026-11-25,15:00,16:00,Worsley SR (9.59),
 7,Henry Formon,HIST1050,tutorial,2026-11-26,13:00,14:00,Baines Wing SR (2.14),
-8,Andrew Treanor,LUBS2560,lecture,2026-11-26,11:00,12:00,Maurice Keyworth LT (G.02),
-9,Dr Owen Hart,HIST2210,proctorial,2026-11-27,10:00,11:00,Parkinson SR (1.08),
-10,Dr Clare Whitfield,HIST2105,lecture,2026-11-27,12:00,13:00,Michael Sadler RBLT (LG.X04),
+8,Andrew Treanor,LUBS2560,lecture,2026-11-26,11:00,12:00,Chemistry LT A (2.15),
+9,Jacopo Peabody,HIST2210,proctorial,2026-11-27,10:00,11:00,Newlyn SR (1.02),
+10,Anna McFarlane,HIST2105,lecture,2026-11-27,12:00,13:00,Michael Sadler RBLT (LG.X04),
